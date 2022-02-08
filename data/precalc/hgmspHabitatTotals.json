@@ -1,0 +1,380 @@
+{
+  "metrics": [
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 184760972.68020758
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Upper Slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 459460383.3409909
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2345578536.7844334
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3651817506.646498
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 110009.90138158071
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 35598592.163420916
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 22601596.910698857
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 125168223.78212346
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 43934396.36220261
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 20046367.681534607
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7706892.069827139
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 312557991.61997616
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 76504052.70859109
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7036580.22344073
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 413502269.6168349
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 62330459.00744789
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2822822234.53641
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 101123866.90005308
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 681036.4935667756
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4161662.5515672346
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Estuarine Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 137630500.8867636
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Estuarine Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 102881769.98058453
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Estuarine Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3101511.589049524
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 37602933.50702867
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Estuarine Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24780890.06600477
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Estuarine Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6640889.484942733
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 447625611.1579262
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8341657.997230237
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 513336.936979007
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 698243.5209116393
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13688045.21935885
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 166941888.0920283
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3666157.0858614817
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 355989856.8347356
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1637886.0271709445
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Mid-slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 19740285.60720317
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Moderate Upper Slope Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1090456.779695679
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9640391.955556622
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 91426866.05077703
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 18147958.106507234
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16848481.367538985
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 60381887.178334974
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23975637.73846015
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1204802259.831348
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 367770749.7662442
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "Very Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 15839159.564221801
+    },
+    {
+      "metricId": "areaOverlap",
+      "sketchId": null,
+      "classId": "High Current Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 254990123.31831217
+    }
+  ]
+}
