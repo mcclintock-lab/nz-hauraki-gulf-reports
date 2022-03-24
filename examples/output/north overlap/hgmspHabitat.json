@@ -1,0 +1,1126 @@
+{
+  "metrics": [
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Estuarine Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 81.71957242554029,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Estuarine Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 81.71957242554029,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Estuarine Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.018139737490677574,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Estuarine Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.018139737490677574,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Estuarine Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Estuarine Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Estuarine Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 27297.91016845407,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Estuarine Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 27297.91016845407,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Estuarine Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10331.769214014195,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Estuarine Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10331.769214014195,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 409750.5868077185,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 409750.5868077185,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "High Current Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "High Current Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1073673387.241767,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1073673387.241767,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 25227897.666355755,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 25227897.666355755,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 514036480.9453206,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 514036480.9453206,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10785.182895557744,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10785.182895557744,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Mid-slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Mid-slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1600497.0744544151,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1600497.0744544151,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 757472.1203698439,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 757472.1203698439,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Upper Slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Upper Slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Moderate Upper Slope Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Moderate Upper Slope Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 165634545.1408371,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 165634545.1408371,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7362873.795665774,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7362873.795665774,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 386753879.2148193,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 386753879.2148193,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 572571.2025783958,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 572571.2025783958,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 156.55616243791266,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 156.55616243791266,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14523765.115157807,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14523765.115157807,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4627049.925571051,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4627049.925571051,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8819.295129112143,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8819.295129112143,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2421800.3716585846,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2421800.3716585846,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 349167.88383802207,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 349167.88383802207,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 225.92654880605366,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 225.92654880605366,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4230784.781229142,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4230784.781229142,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "Very Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2786579.969664379,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "Very Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2786579.969664379,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "61f1c276b22c0f2218b15a45",
+      "name": "north overlap",
+      "updatedAt": "2022-03-22T16:15:37.031Z",
+      "createdAt": "2022-01-26T21:51:50.171Z",
+      "sketchClassId": "61f06fa7b22c0f2218b13086",
+      "isCollection": true,
+      "userAttributes": []
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "61f1be70b22c0f2218b15a36",
+          "name": "test",
+          "updatedAt": "2022-01-26T21:53:27.105Z",
+          "createdAt": "2022-01-26T21:34:40.468Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "HPA"
+            }
+          ]
+        },
+        "id": "1",
+        "bbox": [
+          174.6812625210026,
+          -36.29043113105466,
+          175.30748322412757,
+          -35.34166468876872
+        ],
+        "geometry": null
+      }
+    ]
+  }
+}
