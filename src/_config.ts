@@ -12,7 +12,7 @@ export const localDataUrl = `http://127.0.0.1:8080/`;
 export const dataBucketUrl =
   process.env.NODE_ENV === "test"
     ? localDataUrl
-    : `https://gp-nz-hauraki-gulf-reports-datasets.s3.ap-southeast-2.amazonaws.com/`;
+    : `https://gp-nz-hauraki-gulf-reports-datasets.s3.us-west-1.amazonaws.com/`;
 
 export const cogFileSuffix = "_cog.tif";
 export const fgbFileSuffix = ".fgb";
@@ -20,6 +20,12 @@ export const fgbFileSuffix = ".fgb";
 //// OBJECTIVES ////
 
 export const objectives = {};
+
+//// CLIP PLANNING AREA ////
+
+const clipPreprocessor = {
+  filename: `test_boundary_simple2${fgbFileSuffix}`,
+};
 
 //// HABITAT PROTECTION ////
 
@@ -220,12 +226,12 @@ const hgmspAreaOverlap: MetricGroup = {
     },
   ],
   layerId: "",
-}
+};
 
 const hgmspHabitat: Report = {
   reportId: "hgmspHabitat",
   metrics: {
-    hgmspAreaOverlap
+    hgmspAreaOverlap,
   },
 };
 
@@ -235,10 +241,11 @@ export default {
   localDataUrl,
   dataBucketUrl,
   objectives,
+  clipPreprocessor,
   reports: {
     hgmspHabitat,
   },
   metricGroups: {
-    hgmspAreaOverlap
-  }
+    hgmspAreaOverlap,
+  },
 };

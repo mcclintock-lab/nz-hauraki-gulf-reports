@@ -16,7 +16,7 @@ ogr2ogr -t_srs "EPSG:4326" -f FlatGeobuf -explodecollections -dialect OGRSQL -sq
 ogr2ogr -f GeoJSON "${DST_PATH}/${LAYER}.json" "${DST_PATH}/${LAYER}.fgb"
 
 # Create clip boundary for preprocessor - union all polygons
-ogr2ogr -t_srs "EPSG:4326" -f FlatGeobuf -explodecollections -dialect sqlite -sql "SELECT st_union(geometry) from HGMSP_Habitats_2021" "${DST_PATH}/HGMSP_habitat_boundary.fgb" "${SRC_PATH}/${LAYER}.shp"
-ogr2ogr -t_srs "EPSG:4326" -f Geojson -explodecollections -dialect sqlite -sql "SELECT st_union(geometry) from HGMSP_Habitats_2021" "${DST_PATH}/HGMSP_habitat_boundary.json" "${SRC_PATH}/${LAYER}.shp"
+ogr2ogr -t_srs "EPSG:4326" -f FlatGeobuf -explodecollections -dialect sqlite -sql "SELECT 'test' as name, st_union(st_buffer(geometry, 0)) from HGMSP_Habitats_2021" "${DST_PATH}/HGMSP_habitat_boundary.fgb" "${SRC_PATH}/${LAYER}.shp"
+ogr2ogr -t_srs "EPSG:4326" -f Geojson -explodecollections -dialect sqlite -sql "SELECT 'test' as name, st_union(geometry) from HGMSP_Habitats_2021" "${DST_PATH}/HGMSP_habitat_boundary.json" "${SRC_PATH}/${LAYER}.shp"
 
 
