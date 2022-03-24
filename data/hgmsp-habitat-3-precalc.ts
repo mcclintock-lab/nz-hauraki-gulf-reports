@@ -11,8 +11,7 @@ import {
   rekeyMetrics,
 } from "@seasketch/geoprocessing";
 
-const REPORT = config.reports.hgmspHabitat;
-const METRIC = REPORT.metrics.areaOverlap;
+const METRIC = config.metricGroups.hgmspAreaOverlap;
 const CLASSES = METRIC.classes;
 const DATASET = `hgmspHabitat`;
 const DEST_PATH = `${__dirname}/precalc/${DATASET}Totals.json`;

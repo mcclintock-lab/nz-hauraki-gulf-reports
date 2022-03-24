@@ -24,7 +24,7 @@ export const objectives = {};
 //// CLIP PLANNING AREA ////
 
 const clipPreprocessor = {
-  filename: `test_boundary_simple2${fgbFileSuffix}`,
+  filename: `HGMSP_habitat_boundary_simple${fgbFileSuffix}`,
 };
 
 //// HABITAT PROTECTION ////

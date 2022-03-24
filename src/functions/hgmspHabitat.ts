@@ -10,6 +10,7 @@ import {
   Metric,
   Feature,
   overlapFeatures,
+  VectorDataSource,
 } from "@seasketch/geoprocessing";
 import { fgbFetchAll } from "@seasketch/geoprocessing/dataproviders";
 import bbox from "@turf/bbox";
@@ -22,14 +23,20 @@ export const classProperty = "Habitat";
 export type HabitatProperties = {
   [classProperty]: string;
 };
+
 export type HabitatFeature = Feature<Polygon, HabitatProperties>;
+
+const SubdividedEezLandUnionSource = new VectorDataSource<HabitatFeature>(
+  "https://dubzz9vxudu4x.cloudfront.net"
+);
 
 export async function hgmspHabitat(
   sketch: Sketch<Polygon> | SketchCollection<Polygon>
 ): Promise<ReportResult> {
   const box = sketch.bbox || bbox(sketch);
   const url = `${config.dataBucketUrl}${METRIC.filename}`;
-  const features = await fgbFetchAll<HabitatFeature>(url, box);
+  // const features = await fgbFetchAll<HabitatFeature>(url, box);
+  let features = await SubdividedEezLandUnionSource.fetch(box);
 
   const metrics: Metric[] = (
     await Promise.all(
