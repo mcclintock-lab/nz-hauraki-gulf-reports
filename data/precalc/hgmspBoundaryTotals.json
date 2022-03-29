@@ -1,0 +1,12 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": null,
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14085039159.747305
+    }
+  ]
+}

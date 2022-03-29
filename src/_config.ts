@@ -1,11 +1,5 @@
 import { DataClass, MetricGroup, Report } from "@seasketch/geoprocessing";
 
-/**
- * Area of ocean within eez minus land in square miles. Calculated by drawing
- * sketch in seasketch project, exporting the resulting sketch, calling turf/area function on it and converting square
- * meters to square miles */
-export const STUDY_REGION_AREA_SQ_METERS = undefined;
-
 export const units = "metric";
 
 export const localDataUrl = `http://127.0.0.1:8080/`;
@@ -25,6 +19,26 @@ export const objectives = {};
 
 const clipPreprocessor = {
   filename: `HGMSP_habitat_boundary_simple${fgbFileSuffix}`,
+};
+
+//// HGMSP BOundary ////
+
+const boundaryAreaOverlap: MetricGroup = {
+  metricId: "boundaryAreaOverlap",
+  baseFilename: "HGMSP_habitat_boundary_simple",
+  classes: [
+    {
+      classId: "boundary",
+      display: "Boundary",
+    },
+  ],
+};
+
+const sizeReport: Report = {
+  reportId: "hgmspBoundary",
+  metrics: {
+    boundaryAreaOverlap,
+  },
 };
 
 //// HABITAT PROTECTION ////
@@ -236,7 +250,6 @@ const hgmspHabitat: Report = {
 };
 
 export default {
-  STUDY_REGION_AREA_SQ_METERS,
   units,
   localDataUrl,
   dataBucketUrl,
@@ -247,5 +260,6 @@ export default {
   },
   metricGroups: {
     hgmspAreaOverlap,
+    boundaryAreaOverlap,
   },
 };

@@ -5,7 +5,7 @@ import {
   ResultsCard,
   SketchClassTable,
   useSketchProperties,
-  SimpleButton
+  SimpleButton,
 } from "@seasketch/geoprocessing/client-ui";
 import {
   ReportResult,
@@ -16,7 +16,7 @@ import {
   toPercentMetric,
   squareMeterToKilometer,
   keyBy,
-  Metric
+  Metric,
 } from "@seasketch/geoprocessing/client-core";
 import { ClassTable } from "../components/ClassTable";
 import config from "../_config";
@@ -26,37 +26,41 @@ const precalcTotals = precalcMetrics as ReportResultBase;
 
 const METRIC = config.metricGroups.hgmspAreaOverlap;
 
-const FishingImpact = () => {
+const ReportSection = () => {
   const [{ isCollection }] = useSketchProperties();
   return (
     <>
       <ResultsCard title="Habitat" functionName="hgmspHabitat">
         {(data: ReportResult) => {
-
           const sketches = [...toNullSketchArray(data.sketch), data.sketch];
           const sketchesById = keyBy(sketches, (sk) => sk.properties.id);
-          
+
           const areaPlusPercMetrics: Metric[] = [
-            ...data.metrics.map(m => ({ ...m, value: squareMeterToKilometer(m.value)})),
-            ...toPercentMetric(data.metrics, precalcTotals.metrics, `${METRIC.metricId}Perc`)
-          ]
+            ...data.metrics.map((m) => ({
+              ...m,
+              value: squareMeterToKilometer(m.value),
+            })),
+            ...toPercentMetric(
+              data.metrics,
+              precalcTotals.metrics,
+              `${METRIC.metricId}Perc`
+            ),
+          ];
 
           // Single sketch or collection top-level
-          const parentMetrics = metricsWithSketchId(
-            areaPlusPercMetrics,
-            [data.sketch.properties.id]
-          );
+          const parentMetrics = metricsWithSketchId(areaPlusPercMetrics, [
+            data.sketch.properties.id,
+          ]);
 
           return (
             <>
-              <p>
-                This report summarizes overlap with each habitat type.
-              </p>
+              <p>This report summarizes overlap with each habitat type.</p>
 
               <Collapse title="Learn more">
                 <p>
-                  If a Network has overlapping areas, the overlap is removed before calculating the overall area for each habitat class.
-                  </p>                
+                  If a Network has overlapping areas, the overlap is removed
+                  before calculating the overall area for each habitat class.
+                </p>
               </Collapse>
 
               <ClassTable
@@ -83,7 +87,17 @@ const FishingImpact = () => {
               {isCollection && (
                 <Collapse title="Show by MPA">{genSketchTable(data)}</Collapse>
               )}
-              <DataDownload filename="hgmspHabitat" data={areaPlusPercMetrics} titleElement={<div style={isCollection ? {margin: '20px 0px 0px 0px'} : {}}>➥ Export Data</div>}/>
+              <DataDownload
+                filename="hgmspHabitat"
+                data={areaPlusPercMetrics}
+                titleElement={
+                  <div
+                    style={isCollection ? { margin: "20px 0px 0px 0px" } : {}}
+                  >
+                    ➥ Export Data
+                  </div>
+                }
+              />
             </>
           );
         }}
@@ -108,4 +122,4 @@ const genSketchTable = (data: ReportResult) => {
   return <SketchClassTable rows={sketchRows} dataGroup={METRIC} formatPerc />;
 };
 
-export default FishingImpact;
+export default ReportSection;

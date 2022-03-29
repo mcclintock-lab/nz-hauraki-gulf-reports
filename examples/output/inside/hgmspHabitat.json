@@ -303,7 +303,7 @@
       "classId": "Sheltered Deep Gravel",
       "groupId": null,
       "geographyId": null,
-      "value": 25095965.796488218,
+      "value": 25095984.230380606,
       "extra": {
         "sketchName": "inside"
       }
@@ -314,7 +314,7 @@
       "classId": "Sheltered Deep Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 24018875.252198163,
+      "value": 24018945.771030225,
       "extra": {
         "sketchName": "inside"
       }
@@ -336,7 +336,7 @@
       "classId": "Sheltered Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 383861784.235886,
+      "value": 383853986.3228347,
       "extra": {
         "sketchName": "inside"
       }

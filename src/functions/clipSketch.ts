@@ -76,6 +76,6 @@ export default new PreprocessingHandler(clipSketch, {
   title: "clipSketch",
   description: "Erases portion of sketch extending outside of valid area",
   timeout: 120,
-  memory: 8192,
+  memory: 10240,
   requiresProperties: [],
 });

@@ -1,0 +1,41 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623b783434fe6c72d3a17236",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3441799506.4236417,
+      "extra": {
+        "sketchName": "northPenta"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "623b783434fe6c72d3a17236",
+      "name": "northPenta",
+      "updatedAt": "2022-03-23T19:43:13.856Z",
+      "createdAt": "2022-03-23T19:42:44.240Z",
+      "sketchClassId": "61f06d95b22c0f2218b13070",
+      "isCollection": false,
+      "userAttributes": [
+        {
+          "label": "Protection Type",
+          "fieldType": "ChoiceField",
+          "exportId": "MPA_Type",
+          "value": "HPA"
+        }
+      ]
+    },
+    "id": "1",
+    "bbox": [
+      174.7691531460026,
+      -36.258877824147746,
+      175.62059357569007,
+      -35.60057832008807
+    ]
+  }
+}

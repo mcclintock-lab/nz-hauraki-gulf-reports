@@ -1,0 +1,215 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a0234be59493620c9fe36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 432931718.73251265,
+      "extra": {
+        "sketchName": "inside"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a5ee82110c473d4436c84",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3444747926.5122266,
+      "extra": {
+        "sketchName": "Network 1",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a5f9c2110c473d4436c86",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1410714898.9470675,
+      "extra": {
+        "sketchName": "area b"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a5fa82110c473d4436c88",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 792547946.8670299,
+      "extra": {
+        "sketchName": "area c"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a5fb42110c473d4436c8a",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 966297728.1607808,
+      "extra": {
+        "sketchName": "area d"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a5fcaa32056d4738adcd4",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 792547946.8670299,
+      "extra": {
+        "sketchName": "area c copy"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "623a5ee82110c473d4436c84",
+      "name": "Network 1",
+      "updatedAt": "2022-03-22T23:46:28.280Z",
+      "createdAt": "2022-03-22T23:42:32.873Z",
+      "sketchClassId": "61f06fa7b22c0f2218b13086",
+      "isCollection": true,
+      "userAttributes": []
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "623a0234be59493620c9fe36",
+          "name": "inside",
+          "updatedAt": "2022-03-22T23:42:41.508Z",
+          "createdAt": "2022-03-22T17:07:00.592Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "HPA"
+            }
+          ]
+        },
+        "id": "1",
+        "bbox": [
+          175.03007843897134,
+          -36.504875907930206,
+          175.38713410303384,
+          -36.27050421035417
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "623a5f9c2110c473d4436c86",
+          "name": "area b",
+          "updatedAt": "2022-03-22T23:46:01.097Z",
+          "createdAt": "2022-03-22T23:45:32.011Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "AH"
+            }
+          ]
+        },
+        "id": "2",
+        "bbox": [
+          175.6343264858463,
+          -37.03729711155331,
+          176.06279328272132,
+          -36.544604663136546
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "623a5fa82110c473d4436c88",
+          "name": "area c",
+          "updatedAt": "2022-03-22T23:46:04.433Z",
+          "createdAt": "2022-03-22T23:45:44.631Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "HPA"
+            }
+          ]
+        },
+        "id": "3",
+        "bbox": [
+          174.96416047022137,
+          -36.94954882311367,
+          175.37614777490882,
+          -36.65926196019461
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "623a5fb42110c473d4436c8a",
+          "name": "area d",
+          "updatedAt": "2022-03-22T23:46:02.829Z",
+          "createdAt": "2022-03-22T23:45:56.759Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "SPA"
+            }
+          ]
+        },
+        "id": "4",
+        "bbox": [
+          174.74992707178387,
+          -36.562255337777174,
+          175.15092804834634,
+          -36.23506601454874
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "623a5fcaa32056d4738adcd4",
+          "name": "area c copy",
+          "updatedAt": "2022-03-22T23:46:28.281Z",
+          "createdAt": "2022-03-22T23:45:44.631Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "HPA"
+            }
+          ]
+        },
+        "id": "5",
+        "bbox": [
+          174.96416047022137,
+          -36.94954882311367,
+          175.37614777490882,
+          -36.65926196019461
+        ]
+      }
+    ]
+  }
+}

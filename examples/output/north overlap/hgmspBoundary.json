@@ -1,0 +1,67 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3815782325.3850513,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3815782325.385045,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "61f1c276b22c0f2218b15a45",
+      "name": "north overlap",
+      "updatedAt": "2022-03-22T16:15:37.031Z",
+      "createdAt": "2022-01-26T21:51:50.171Z",
+      "sketchClassId": "61f06fa7b22c0f2218b13086",
+      "isCollection": true,
+      "userAttributes": []
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "61f1be70b22c0f2218b15a36",
+          "name": "test",
+          "updatedAt": "2022-01-26T21:53:27.105Z",
+          "createdAt": "2022-01-26T21:34:40.468Z",
+          "sketchClassId": "61f06d95b22c0f2218b13070",
+          "isCollection": false,
+          "userAttributes": [
+            {
+              "label": "Protection Type",
+              "fieldType": "ChoiceField",
+              "exportId": "MPA_Type",
+              "value": "HPA"
+            }
+          ]
+        },
+        "id": "1",
+        "bbox": [
+          174.6812625210026,
+          -36.29043113105466,
+          175.30748322412757,
+          -35.34166468876872
+        ]
+      }
+    ]
+  }
+}

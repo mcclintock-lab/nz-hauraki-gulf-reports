@@ -1,0 +1,41 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "623a0234be59493620c9fe36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 432931718.73251265,
+      "extra": {
+        "sketchName": "inside"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "623a0234be59493620c9fe36",
+      "name": "inside",
+      "updatedAt": "2022-03-22T17:07:00.592Z",
+      "createdAt": "2022-03-22T17:07:00.592Z",
+      "sketchClassId": "61f06d95b22c0f2218b13070",
+      "isCollection": false,
+      "userAttributes": [
+        {
+          "label": "Protection Type",
+          "fieldType": "ChoiceField",
+          "exportId": "MPA_Type",
+          "value": "HPA"
+        }
+      ]
+    },
+    "id": "1",
+    "bbox": [
+      175.03007843897134,
+      -36.504875907930206,
+      175.38713410303384,
+      -36.27050421035417
+    ]
+  }
+}

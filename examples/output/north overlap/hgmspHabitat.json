@@ -6,7 +6,7 @@
       "classId": "Estuarine Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 81.71957242554029,
+      "value": 82.3694563144922,
       "extra": {
         "sketchName": "test"
       }
@@ -17,7 +17,7 @@
       "classId": "Estuarine Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 81.71957242554029,
+      "value": 82.3694563144922,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -29,7 +29,7 @@
       "classId": "Estuarine Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 0.018139737490677574,
+      "value": 0.020008311866999536,
       "extra": {
         "sketchName": "test"
       }
@@ -40,7 +40,7 @@
       "classId": "Estuarine Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 0.018139737490677574,
+      "value": 0.020008311866999536,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -75,7 +75,7 @@
       "classId": "Estuarine Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 27297.91016845407,
+      "value": 27301.17389583492,
       "extra": {
         "sketchName": "test"
       }
@@ -86,7 +86,7 @@
       "classId": "Estuarine Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 27297.91016845407,
+      "value": 27301.17389583492,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -98,7 +98,7 @@
       "classId": "Estuarine Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 10331.769214014195,
+      "value": 10332.38160128226,
       "extra": {
         "sketchName": "test"
       }
@@ -109,7 +109,7 @@
       "classId": "Estuarine Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 10331.769214014195,
+      "value": 10332.38160128226,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -190,7 +190,7 @@
       "classId": "High Current Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 409750.5868077185,
+      "value": 409773.04433770693,
       "extra": {
         "sketchName": "test"
       }
@@ -201,7 +201,7 @@
       "classId": "High Current Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 409750.5868077185,
+      "value": 409773.04433770693,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -374,7 +374,7 @@
       "classId": "Moderate Deep Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 1073673387.241767,
+      "value": 1073673351.1368546,
       "extra": {
         "sketchName": "test"
       }
@@ -385,7 +385,7 @@
       "classId": "Moderate Deep Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 1073673387.241767,
+      "value": 1073673351.1368546,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -397,7 +397,7 @@
       "classId": "Moderate Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 25227897.666355755,
+      "value": 25227774.64765433,
       "extra": {
         "sketchName": "test"
       }
@@ -408,7 +408,7 @@
       "classId": "Moderate Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 25227897.666355755,
+      "value": 25227774.64765433,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -420,7 +420,7 @@
       "classId": "Moderate Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 514036480.9453206,
+      "value": 514036426.958201,
       "extra": {
         "sketchName": "test"
       }
@@ -431,7 +431,7 @@
       "classId": "Moderate Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 514036480.9453206,
+      "value": 514036426.958201,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -443,7 +443,7 @@
       "classId": "Moderate Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 10785.182895557744,
+      "value": 10794.6043006079,
       "extra": {
         "sketchName": "test"
       }
@@ -454,7 +454,7 @@
       "classId": "Moderate Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 10785.182895557744,
+      "value": 10794.6043006079,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -535,7 +535,7 @@
       "classId": "Moderate Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1600497.0744544151,
+      "value": 1600508.5164825055,
       "extra": {
         "sketchName": "test"
       }
@@ -546,7 +546,7 @@
       "classId": "Moderate Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1600497.0744544151,
+      "value": 1600508.5164825055,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -558,7 +558,7 @@
       "classId": "Moderate Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 757472.1203698439,
+      "value": 757467.607498825,
       "extra": {
         "sketchName": "test"
       }
@@ -569,7 +569,7 @@
       "classId": "Moderate Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 757472.1203698439,
+      "value": 757467.607498825,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -650,7 +650,7 @@
       "classId": "Sheltered Deep Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 165634545.1408371,
+      "value": 165634653.83204076,
       "extra": {
         "sketchName": "test"
       }
@@ -661,7 +661,7 @@
       "classId": "Sheltered Deep Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 165634545.1408371,
+      "value": 165634653.83204076,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -673,7 +673,7 @@
       "classId": "Sheltered Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 7362873.795665774,
+      "value": 7362908.694745284,
       "extra": {
         "sketchName": "test"
       }
@@ -684,7 +684,7 @@
       "classId": "Sheltered Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 7362873.795665774,
+      "value": 7362908.694745284,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -696,7 +696,7 @@
       "classId": "Sheltered Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 386753879.2148193,
+      "value": 386795664.5189456,
       "extra": {
         "sketchName": "test"
       }
@@ -707,7 +707,7 @@
       "classId": "Sheltered Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 386753879.2148193,
+      "value": 386795664.5189456,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -719,7 +719,7 @@
       "classId": "Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 572571.2025783958,
+      "value": 572529.28005187,
       "extra": {
         "sketchName": "test"
       }
@@ -730,7 +730,7 @@
       "classId": "Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 572571.2025783958,
+      "value": 572529.28005187,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -742,7 +742,7 @@
       "classId": "Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 156.55616243791266,
+      "value": 165.2228513944575,
       "extra": {
         "sketchName": "test"
       }
@@ -753,7 +753,7 @@
       "classId": "Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 156.55616243791266,
+      "value": 165.2228513944575,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -811,7 +811,7 @@
       "classId": "Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 14523765.115157807,
+      "value": 14523688.694226569,
       "extra": {
         "sketchName": "test"
       }
@@ -822,7 +822,7 @@
       "classId": "Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 14523765.115157807,
+      "value": 14523688.694226569,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -834,7 +834,7 @@
       "classId": "Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 4627049.925571051,
+      "value": 4627087.239352509,
       "extra": {
         "sketchName": "test"
       }
@@ -845,7 +845,7 @@
       "classId": "Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 4627049.925571051,
+      "value": 4627087.239352509,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -903,7 +903,7 @@
       "classId": "Very Sheltered Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 8819.295129112143,
+      "value": 8819.804507536412,
       "extra": {
         "sketchName": "test"
       }
@@ -914,7 +914,7 @@
       "classId": "Very Sheltered Deep Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 8819.295129112143,
+      "value": 8819.804507536412,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -926,7 +926,7 @@
       "classId": "Very Sheltered Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 2421800.3716585846,
+      "value": 2421891.3868930824,
       "extra": {
         "sketchName": "test"
       }
@@ -937,7 +937,7 @@
       "classId": "Very Sheltered Deep Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 2421800.3716585846,
+      "value": 2421891.3868930824,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -949,7 +949,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 349167.88383802207,
+      "value": 349186.45259185915,
       "extra": {
         "sketchName": "test"
       }
@@ -960,7 +960,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 349167.88383802207,
+      "value": 349186.45259185915,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -972,7 +972,7 @@
       "classId": "Very Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 225.92654880605366,
+      "value": 234.0233220547691,
       "extra": {
         "sketchName": "test"
       }
@@ -983,7 +983,7 @@
       "classId": "Very Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 225.92654880605366,
+      "value": 234.0233220547691,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -1041,7 +1041,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 4230784.781229142,
+      "value": 4230794.24632783,
       "extra": {
         "sketchName": "test"
       }
@@ -1052,7 +1052,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 4230784.781229142,
+      "value": 4230794.24632783,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -1064,7 +1064,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 2786579.969664379,
+      "value": 2786575.086861592,
       "extra": {
         "sketchName": "test"
       }
@@ -1075,7 +1075,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 2786579.969664379,
+      "value": 2786575.086861592,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
