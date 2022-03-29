@@ -34,9 +34,9 @@ export async function area(
 export default new GeoprocessingHandler(area, {
   title: "hgmspBoundary",
   description: "returns boundary area metrics for sketch",
-  timeout: 60, // seconds
+  timeout: 360, // seconds
   executionMode: "async",
   // Specify any Sketch Class form attributes that are required
   requiresProperties: [],
-  memory: 8192,
+  memory: 10240,
 });

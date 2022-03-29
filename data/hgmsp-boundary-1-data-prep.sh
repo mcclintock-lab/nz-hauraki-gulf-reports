@@ -11,7 +11,13 @@
 
 SRC_PATH=src
 DST_PATH=dist
-LAYER=HGMSP_habitat_boundary_simple
+LAYER=HGMSP_habitat_boundary
+declare -a ATTRIBS_TO_KEEP=(
+  "Habitat"
+)
+
+# For subdivide
+ogr2ogr -t_srs "EPSG:4326" -nlt POLYGON -explodecollections -dialect OGRSQL -sql "SELECT ${ATTRIBS_TO_KEEP} FROM ${LAYER}" "${DST_PATH}/${LAYER}.shp" "${SRC_PATH}/${LAYER}.fgb"
 
 # For precalc
-ogr2ogr -f GeoJSON "${DST_PATH}/${LAYER}.json" "${DST_PATH}/${LAYER}.fgb"
+ogr2ogr -f GeoJSON "${DST_PATH}/${LAYER}.json" "${SRC_PATH}/${LAYER}.fgb"

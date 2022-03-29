@@ -18,14 +18,14 @@ export const objectives = {};
 //// CLIP PLANNING AREA ////
 
 const clipPreprocessor = {
-  filename: `HGMSP_habitat_boundary_simple${fgbFileSuffix}`,
+  filename: `HGMSP_habitat_boundary${fgbFileSuffix}`,
 };
 
 //// HGMSP BOundary ////
 
 const boundaryAreaOverlap: MetricGroup = {
   metricId: "boundaryAreaOverlap",
-  baseFilename: "HGMSP_habitat_boundary_simple",
+  baseFilename: "HGMSP_habitat_boundary",
   classes: [
     {
       classId: "boundary",
@@ -257,6 +257,7 @@ export default {
   clipPreprocessor,
   reports: {
     hgmspHabitat,
+    sizeReport,
   },
   metricGroups: {
     hgmspAreaOverlap,

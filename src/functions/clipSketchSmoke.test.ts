@@ -17,7 +17,7 @@ describe("Basic smoke tests", () => {
   });
 
   test("clipSketch", async () => {
-    const examples = await getExamplePolygonSketches("whole gulf");
+    const examples = await getExamplePolygonSketches("northPenta");
     for (const example of examples) {
       try {
         console.log(example.properties.name);

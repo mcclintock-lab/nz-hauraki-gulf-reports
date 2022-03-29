@@ -23,10 +23,9 @@ export const classProperty = "Habitat";
 export type HabitatProperties = {
   [classProperty]: string;
 };
-
 export type HabitatFeature = Feature<Polygon, HabitatProperties>;
 
-const SubdividedEezLandUnionSource = new VectorDataSource<HabitatFeature>(
+const SubdividedHabitatSource = new VectorDataSource<HabitatFeature>(
   "https://dubzz9vxudu4x.cloudfront.net"
 );
 
@@ -36,7 +35,7 @@ export async function hgmspHabitat(
   const box = sketch.bbox || bbox(sketch);
   const url = `${config.dataBucketUrl}${METRIC.filename}`;
   // const features = await fgbFetchAll<HabitatFeature>(url, box);
-  let features = await SubdividedEezLandUnionSource.fetch(box);
+  let features = await SubdividedHabitatSource.fetch(box);
 
   const metrics: Metric[] = (
     await Promise.all(
@@ -77,7 +76,7 @@ export async function hgmspHabitat(
 export default new GeoprocessingHandler(hgmspHabitat, {
   title: "hgmspHabitat",
   description: "returns area metrics for protection levels for sketch",
-  timeout: 240, // seconds
+  timeout: 360, // seconds
   executionMode: "async",
   // Specify any Sketch Class form attributes that are required
   requiresProperties: [],

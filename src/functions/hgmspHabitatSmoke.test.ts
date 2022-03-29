@@ -13,11 +13,11 @@ describe("Basic smoke tests", () => {
     expect(typeof Handler.func).toBe("function");
   });
   test("hgmspHabitat - tests run against all examples", async () => {
-    const examples = await getExamplePolygonSketchAll();
+    const examples = await getExamplePolygonSketchAll("northPenta");
     for (const example of examples) {
       const result = await Handler.func(example);
       expect(result).toBeTruthy();
       writeResultOutput(result, "hgmspHabitat", example.properties.name);
     }
-  }, 180000);
+  }, 600000);
 });
