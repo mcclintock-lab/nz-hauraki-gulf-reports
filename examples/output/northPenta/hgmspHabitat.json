@@ -347,7 +347,7 @@
       "classId": "Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1595600.80796536,
+      "value": 1595600.8079885463,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -358,7 +358,7 @@
       "classId": "Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 2451684.7793638855,
+      "value": 2451684.779371378,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -391,7 +391,7 @@
       "classId": "Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 19181099.45836719,
+      "value": 19181099.45823559,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -402,7 +402,7 @@
       "classId": "Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 13098572.89591394,
+      "value": 13098572.895899292,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -457,7 +457,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 643090.2813641229,
+      "value": 643090.2813714879,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -501,7 +501,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 4833963.68972694,
+      "value": 4833963.689694511,
       "extra": {
         "sketchName": "northPenta"
       }
@@ -512,7 +512,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 1878972.9939526967,
+      "value": 1878972.993951586,
       "extra": {
         "sketchName": "northPenta"
       }

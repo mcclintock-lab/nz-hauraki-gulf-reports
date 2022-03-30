@@ -17,10 +17,9 @@ describe("Basic smoke tests", () => {
   });
 
   test("clipSketch", async () => {
-    const examples = await getExamplePolygonSketches("northPenta");
+    const examples = await getExamplePolygonSketches();
     for (const example of examples) {
       try {
-        console.log(example.properties.name);
         const result = await clipSketch(example);
         expect(result).toBeTruthy();
         expect(booleanValid(result));

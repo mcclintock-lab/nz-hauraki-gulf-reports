@@ -1,0 +1,52 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 51843856815.25713,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3.67846091180743,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "6239f66ebe59493620c9fdd0",
+      "name": "whole gulf unclipped",
+      "updatedAt": "2022-03-22T16:16:46.295Z",
+      "createdAt": "2022-03-22T16:16:46.295Z",
+      "sketchClassId": "61f06d95b22c0f2218b13070",
+      "isCollection": false,
+      "userAttributes": [
+        {
+          "label": "Protection Type",
+          "fieldType": "ChoiceField",
+          "exportId": "MPA_Type",
+          "value": "SPA"
+        }
+      ]
+    },
+    "id": "1",
+    "bbox": [
+      173.7996096889714,
+      -38.393002531798174,
+      177.37016632959623,
+      -35.39765612283227
+    ]
+  }
+}

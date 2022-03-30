@@ -10,6 +10,17 @@
       "extra": {
         "sketchName": "inside"
       }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a0234be59493620c9fe36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.030717668450362914,
+      "extra": {
+        "sketchName": "inside"
+      }
     }
   ],
   "sketch": {

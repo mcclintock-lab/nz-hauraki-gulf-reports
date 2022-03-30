@@ -742,7 +742,7 @@
       "classId": "Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 165.2228513944575,
+      "value": 165.22285139445742,
       "extra": {
         "sketchName": "test"
       }
@@ -753,7 +753,7 @@
       "classId": "Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 165.2228513944575,
+      "value": 165.22285139445742,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true
@@ -1041,7 +1041,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 4230794.24632783,
+      "value": 4230794.246338707,
       "extra": {
         "sketchName": "test"
       }
@@ -1052,7 +1052,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 4230794.24632783,
+      "value": 4230794.246338707,
       "extra": {
         "sketchName": "north overlap",
         "isCollection": true

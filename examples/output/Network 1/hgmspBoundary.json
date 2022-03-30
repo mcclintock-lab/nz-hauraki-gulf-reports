@@ -66,6 +66,73 @@
       "extra": {
         "sketchName": "area c copy"
       }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a0234be59493620c9fe36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.030717668450362914,
+      "extra": {
+        "sketchName": "inside"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a5ee82110c473d4436c84",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.24441411918597578,
+      "extra": {
+        "sketchName": "Network 1",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a5f9c2110c473d4436c86",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.10009401175481236,
+      "extra": {
+        "sketchName": "area b"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a5fa82110c473d4436c88",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.056233405891701345,
+      "extra": {
+        "sketchName": "area c"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a5fb42110c473d4436c8a",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.06856141962728558,
+      "extra": {
+        "sketchName": "area d"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623a5fcaa32056d4738adcd4",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.056233405891701345,
+      "extra": {
+        "sketchName": "area c copy"
+      }
     }
   ],
   "sketch": {

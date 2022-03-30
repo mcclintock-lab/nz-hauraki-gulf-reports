@@ -10,6 +10,17 @@
       "extra": {
         "sketchName": "northPenta"
       }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "623b783434fe6c72d3a17236",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.2442049208602012,
+      "extra": {
+        "sketchName": "northPenta"
+      }
     }
   ],
   "sketch": {

@@ -17,7 +17,7 @@
       "classId": "Estuarine Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 548286.8388227301,
+      "value": 548286.8388250418,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -40,7 +40,7 @@
       "classId": "Estuarine Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 363976.03195322084,
+      "value": 363976.0319555325,
       "extra": {
         "sketchName": "area c"
       }
@@ -62,7 +62,7 @@
       "classId": "Estuarine Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 363976.03195322084,
+      "value": 363976.0319555325,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -84,7 +84,7 @@
       "classId": "Estuarine Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 15020863.738606997,
+      "value": 15020863.738604916,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -107,7 +107,7 @@
       "classId": "Estuarine Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 4548247.118646117,
+      "value": 4548247.118644036,
       "extra": {
         "sketchName": "area c"
       }
@@ -129,7 +129,7 @@
       "classId": "Estuarine Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 4548247.118646117,
+      "value": 4548247.118644036,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -218,7 +218,7 @@
       "classId": "Estuarine Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1640530.478368836,
+      "value": 1640530.4783693915,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -252,7 +252,7 @@
       "classId": "Estuarine Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1010277.274841047,
+      "value": 1010277.2748416024,
       "extra": {
         "sketchName": "area d"
       }
@@ -888,7 +888,7 @@
       "classId": "High Current Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 6251170.069253589,
+      "value": 6251170.069255046,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -911,7 +911,7 @@
       "classId": "High Current Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 2671154.2392773833,
+      "value": 2671154.239278839,
       "extra": {
         "sketchName": "area c"
       }
@@ -933,7 +933,7 @@
       "classId": "High Current Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 2671154.2392773833,
+      "value": 2671154.239278839,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -2764,7 +2764,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 8008775.684417592,
+      "value": 8008775.684389725,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -2776,7 +2776,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 1948933.5495005357,
+      "value": 1948933.54951469,
       "extra": {
         "sketchName": "area b"
       }
@@ -2787,7 +2787,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 3210322.6127011236,
+      "value": 3210322.6126776226,
       "extra": {
         "sketchName": "area c"
       }
@@ -2798,7 +2798,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 2849519.5222159335,
+      "value": 2849519.522197412,
       "extra": {
         "sketchName": "area d"
       }
@@ -2809,7 +2809,7 @@
       "classId": "Very Sheltered Intertidal Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 3210322.6127011236,
+      "value": 3210322.6126776226,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -2831,7 +2831,7 @@
       "classId": "Very Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 3741910.5379088293,
+      "value": 3741910.5379086984,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -2854,7 +2854,7 @@
       "classId": "Very Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 993987.4928525854,
+      "value": 993987.4928524543,
       "extra": {
         "sketchName": "area c"
       }
@@ -2876,7 +2876,7 @@
       "classId": "Very Sheltered Intertidal Soft Sediment",
       "groupId": null,
       "geographyId": null,
-      "value": 993987.4928525854,
+      "value": 993987.4928524543,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -2965,7 +2965,7 @@
       "classId": "Very Sheltered Shallow Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 276652477.149649,
+      "value": 276651652.23324144,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -2988,7 +2988,7 @@
       "classId": "Very Sheltered Shallow Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 223415408.4896605,
+      "value": 223414583.57331672,
       "extra": {
         "sketchName": "area c"
       }
@@ -2999,7 +2999,7 @@
       "classId": "Very Sheltered Shallow Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 53237068.6599885,
+      "value": 53237068.65992469,
       "extra": {
         "sketchName": "area d"
       }
@@ -3010,7 +3010,7 @@
       "classId": "Very Sheltered Shallow Mud",
       "groupId": null,
       "geographyId": null,
-      "value": 223415408.4896605,
+      "value": 223414583.57331672,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -3032,7 +3032,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 57428450.43051631,
+      "value": 57428450.43042918,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -3044,7 +3044,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 12267392.310768688,
+      "value": 12267392.310765527,
       "extra": {
         "sketchName": "area b"
       }
@@ -3055,7 +3055,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 19306206.2476624,
+      "value": 19306206.247622475,
       "extra": {
         "sketchName": "area c"
       }
@@ -3066,7 +3066,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 25854851.87208523,
+      "value": 25854851.87204118,
       "extra": {
         "sketchName": "area d"
       }
@@ -3077,7 +3077,7 @@
       "classId": "Very Sheltered Shallow Rocky Reef",
       "groupId": null,
       "geographyId": null,
-      "value": 19306206.2476624,
+      "value": 19306206.247622475,
       "extra": {
         "sketchName": "area c copy"
       }
@@ -3099,7 +3099,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 178416406.08918816,
+      "value": 178416406.0892188,
       "extra": {
         "sketchName": "Network 1",
         "isCollection": true
@@ -3122,7 +3122,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 98314089.89882588,
+      "value": 98314089.8988034,
       "extra": {
         "sketchName": "area c"
       }
@@ -3133,7 +3133,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 19300045.917021487,
+      "value": 19300045.917074602,
       "extra": {
         "sketchName": "area d"
       }
@@ -3144,7 +3144,7 @@
       "classId": "Very Sheltered Shallow Sand",
       "groupId": null,
       "geographyId": null,
-      "value": 98314089.89882588,
+      "value": 98314089.8988034,
       "extra": {
         "sketchName": "area c copy"
       }

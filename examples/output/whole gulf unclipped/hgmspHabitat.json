@@ -1,0 +1,548 @@
+{
+  "metrics": [
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Estuarine Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3101563.160694303,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Estuarine Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 137630510.8141658,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Estuarine Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24780867.139110293,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Estuarine Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6640874.53569565,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Estuarine Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 102881780.5208202,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 60381574.09511095,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23975779.47891902,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9640462.925229812,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 166942434.87486732,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 698236.421662361,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 513357.4688778453,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 18147971.089160435,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 254990087.7791534,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13688025.48678827,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "High Current Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 37603064.619096935,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 62330477.28203582,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3651719799.273354,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 184760910.82543576,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2345578107.051452,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 110021.60323822984,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Mid-slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 19740289.23023836,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 681038.695244492,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1637937.7807494742,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 20046319.01257219,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 43934461.50918304,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Upper Slope Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 457563022.0497424,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Moderate Upper Slope Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1090490.255616868,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 91426820.31539214,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 355990429.70473784,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 35598576.30470977,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2822822102.3797894,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7706896.393782653,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7036537.571210052,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4161716.60189585,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3666180.330140996,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 76503973.36268166,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 312558163.99214303,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Deep Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 15839164.668874057,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Deep Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 367770605.58701044,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Deep Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8341680.005228025,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Deep Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 447625012.0156334,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Intertidal Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 22601630.283856858,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Intertidal Soft Sediment",
+      "groupId": null,
+      "geographyId": null,
+      "value": 101123730.89462633,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Shallow Gravel",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16848507.73614981,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Shallow Mud",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1204802761.260921,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Shallow Rocky Reef",
+      "groupId": null,
+      "geographyId": null,
+      "value": 125167952.80968231,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    },
+    {
+      "metricId": "hgmspAreaOverlap",
+      "sketchId": "6239f66ebe59493620c9fdd0",
+      "classId": "Very Sheltered Shallow Sand",
+      "groupId": null,
+      "geographyId": null,
+      "value": 413502005.83052176,
+      "extra": {
+        "sketchName": "whole gulf unclipped"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "6239f66ebe59493620c9fdd0",
+      "name": "whole gulf unclipped",
+      "updatedAt": "2022-03-22T16:16:46.295Z",
+      "createdAt": "2022-03-22T16:16:46.295Z",
+      "sketchClassId": "61f06d95b22c0f2218b13070",
+      "isCollection": false,
+      "userAttributes": [
+        {
+          "label": "Protection Type",
+          "fieldType": "ChoiceField",
+          "exportId": "MPA_Type",
+          "value": "SPA"
+        }
+      ]
+    },
+    "id": "1",
+    "bbox": [
+      173.7996096889714,
+      -38.393002531798174,
+      177.37016632959623,
+      -35.39765612283227
+    ],
+    "geometry": null
+  }
+}

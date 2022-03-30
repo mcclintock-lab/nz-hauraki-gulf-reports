@@ -11,6 +11,7 @@ import {
 } from "@seasketch/geoprocessing";
 import area from "@turf/area";
 import bbox from "@turf/bbox";
+import bboxPolygon from "@turf/bbox-polygon";
 import { featureCollection as fc, multiPolygon } from "@turf/helpers";
 import flatten from "@turf/flatten";
 import kinks from "@turf/kinks";
@@ -21,7 +22,7 @@ import config from "../_config";
 const MAX_SIZE = 500000 * 1000 ** 2;
 
 // export type PlanningAreaFeature = Feature<MultiPolygon>;
-export type BoundaryFeature = Feature<Polygon>;
+export type BoundaryFeature = Feature<MultiPolygon>;
 
 const SubdividedBoundarySource = new VectorDataSource<BoundaryFeature>(
   "https://dnaniiqf0f48s.cloudfront.net"
@@ -30,18 +31,18 @@ const SubdividedBoundarySource = new VectorDataSource<BoundaryFeature>(
 export async function clipToPlanningArea(feature: Feature<Polygon>) {
   const box = bbox(feature);
   const url = `${config.dataBucketUrl}${config.clipPreprocessor.filename}`;
-  // const clipFeatures = await fgbFetchAll<PlanningAreaFeature>(url, box);
-  let clipFeatures = await SubdividedBoundarySource.fetch(box);
+  const clipFeatures = await fgbFetchAll<BoundaryFeature>(url, box);
+  // let clipFeatures = await SubdividedBoundarySource.fetchUnion(box, "gid");
 
   if (clipFeatures.length === 0) return feature;
-  // console.log("clip features", clipFeatures, clipFeatures.length);
-  // toJsonFile(fc(clipFeatures), "pentaBoundary.geojson");
-  return clipMultiMerge(feature, fc(clipFeatures), "intersection");
-  // return feature;
-  // return clip(
-  //   fc([multiPolygon([feature.geometry.coordinates]), ...clipFeatures]),
-  //   "intersection"
-  // );
+  // console.log("clip features", clipFeatures, clipFeatures.features.length);
+  // toJsonFile(clipFeatures, "clip.geojson");
+  // console.log(clipFeatures);
+  // return clipMultiMerge(feature, fc(clipFeatures), "intersection");
+  return clip(
+    fc([multiPolygon([feature.geometry.coordinates]), ...clipFeatures]),
+    "intersection"
+  );
 }
 
 /**

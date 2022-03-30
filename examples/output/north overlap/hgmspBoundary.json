@@ -22,6 +22,29 @@
         "sketchName": "north overlap",
         "isCollection": true
       }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "61f1be70b22c0f2218b15a36",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.2707400065144045,
+      "extra": {
+        "sketchName": "test"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlapPerc",
+      "sketchId": "61f1c276b22c0f2218b15a45",
+      "classId": "boundary",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0.27074000651440405,
+      "extra": {
+        "sketchName": "north overlap",
+        "isCollection": true
+      }
     }
   ],
   "sketch": {

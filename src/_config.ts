@@ -17,11 +17,12 @@ export const objectives = {};
 
 //// CLIP PLANNING AREA ////
 
+// Clip against buffered and simplified boundary to reduce complexity
 const clipPreprocessor = {
-  filename: `HGMSP_habitat_boundary${fgbFileSuffix}`,
+  filename: `HGMSP_habitat_boundary_simple_buffer${fgbFileSuffix}`,
 };
 
-//// HGMSP BOundary ////
+//// HGMSP BOUNDARY ////
 
 const boundaryAreaOverlap: MetricGroup = {
   metricId: "boundaryAreaOverlap",
